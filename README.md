@@ -47,5 +47,6 @@ Saya belajar dengan cara membangun. Fokus saya membuat alat yang benar-benar ter
 <div align="center">
 
 Terima kasih sudah mampir ☕
+(rio and aji)
 
 </div>
