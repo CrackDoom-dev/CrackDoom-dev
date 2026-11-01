@@ -10,15 +10,15 @@
 
 ---
 
-## ☸️ Tentang
+## Tentang
 
 Saya belajar dengan cara membangun. Fokus saya membuat alat yang benar-benar terpakai, dari antarmuka web sampai aplikasi Android, dan sebagian besar kodenya saya tulis langsung dari HP.
 
-- 🔭 Sedang dikerjakan: **Mahoraga**, aplikasi keuangan mingguan offline
-- 🌱 Sedang dipelajari: pipeline build Android otomatis dengan GitHub Actions
-- ⚡ Gaya kerja: bangun dulu, rapikan sambil jalan
+-  Sedang dikerjakan: **NetRust**, downloader multi app
+-  Sedang dipelajari: pipeline build Android otomatis dengan GitHub Actions
+-  Gaya kerja: bangun dulu, rapikan sambil jalan
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![React](https://img.shields.io/badge/React-15132F?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-15132F?style=for-the-badge&logo=typescript&logoColor=3178C6)
@@ -28,7 +28,7 @@ Saya belajar dengan cara membangun. Fokus saya membuat alat yang benar-benar ter
 ![Capacitor](https://img.shields.io/badge/Capacitor-15132F?style=for-the-badge&logo=capacitor&logoColor=119EFF)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-15132F?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 
-## 📌 Proyek
+##  Proyek
 
 | Proyek | Deskripsi | Teknologi | Status |
 | --- | --- | --- | --- |
@@ -36,7 +36,7 @@ Saya belajar dengan cara membangun. Fokus saya membuat alat yang benar-benar ter
 
 > Proyek lain akan ditambahkan di sini seiring selesai.
 
-## 🧭 Prinsip
+## Prinsip
 
 - Alat yang sederhana tapi dipakai tiap hari lebih bernilai daripada proyek besar yang tidak selesai
 - Data pengguna tetap di perangkat sebisa mungkin
@@ -47,6 +47,6 @@ Saya belajar dengan cara membangun. Fokus saya membuat alat yang benar-benar ter
 <div align="center">
 
 Terima kasih sudah mampir ☕
-(rio and aji)
+(aji)
 
 </div>
